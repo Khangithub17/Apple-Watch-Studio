@@ -1,6 +1,7 @@
 
 
-![Uploading screencapture-localhost-3000-2024-12-25-16_49_09.png…]()
+![Uploading image.png…]()
+
 
 
 
