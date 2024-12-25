@@ -58,7 +58,7 @@ export default function CustomizePage() {
                   <button
                     key={collection}
                     onClick={() => {
-                      setSelectedCollection(collection)
+                     
                       setIsDropdownOpen(false)
                     }}
                     className="w-full px-4 py-2 text-left text-sm hover:bg-gray-100"
