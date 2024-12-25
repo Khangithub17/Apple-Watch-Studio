@@ -8,7 +8,6 @@ import CaseSelectorView from '@/components/case-selector-view'
 import BandSelectorView from '@/components/band-selector-view'
 
 export default function CustomizePage() {
-  const [selectedCollection, setSelectedCollection] = useState('Apple Watch Series 10')
   const [isDropdownOpen, setIsDropdownOpen] = useState(false)
   const [selectedSize, setSelectedSize] = useState<'42mm' | '46mm'>('42mm')
   const [selectedMaterial, setSelectedMaterial] = useState<'Aluminum' | 'Titanium'>('Aluminum')
